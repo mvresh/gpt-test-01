@@ -1,0 +1,21 @@
+.Fintechhaikus {
+    text-align: center;
+  }
+  
+  /* background: linear-gradient(to bottom right, #EE4D5F, #F8A54F, #FFCC33, #92D14F, #00B5AF);
+  background-color: #2b313c;
+  background: linear-gradient(to top, #2B313C, #3B263A, #472436, #512130, #7A1931, #96192F, #B1182D, #D0132D, #E4122C);
+border-radius: 0 0 0 10%;
+box-shadow: 20px 30px 30px #512130;
+  */
+  .Fintechhaikus-header {
+    background: linear-gradient(to bottom, #2B313C, #35293A, #3F2138, #4B1B36, #581534, #651132, #731030, #800D2E, #8E0A2C);
+
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(12px + 2vmin);
+    color: white;
+  }
